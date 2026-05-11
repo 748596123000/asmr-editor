@@ -1,0 +1,10 @@
+PyQt5
+ffmpeg-python
+librosa
+pydub
+soundfile
+numpy
+PyYAML
+appdirs
+tqdm
+scipy
